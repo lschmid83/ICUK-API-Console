@@ -2,6 +2,12 @@
 
 I completed these projects for a UK based ISP where I worked on upgrading a legacy XML broadband provisioning API to a modern C# ASP.NET Web API with a documentation system and API test request console.
 
+Here are some screenshots of the website:
+
+<img align='left' src='https://drive.google.com/uc?id=1oNXQobJY1URCQ1TycjYwJpa9UevOUwGn' width='240'>
+<img align='left' src='https://drive.google.com/uc?id=1RUgtmnpQ2zioDJU7wLnvjLA8CYbJM7wd' width='240'>
+<img src='https://drive.google.com/uc?id=1f5vq-LOds0bnmDe8XihKMts44Os1ZAa4' width='240'>
+
 Restore the database
 ====================
 
