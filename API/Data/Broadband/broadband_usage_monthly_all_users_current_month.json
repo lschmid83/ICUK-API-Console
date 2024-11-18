@@ -1,0 +1,2554 @@
+﻿{
+  "data_transfers": [
+    {
+      "username": "abbijoeadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 322122547200,
+          "usage": 15263757821,
+          "overuse": 0,
+          "projected": 45791273460,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 544428875,
+          "projected": 2384109000
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 15731601683,
+          "overuse": 0,
+          "projected": 47194805040,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 794703007,
+          "projected": 2384109000
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 429496729600,
+          "usage": 30995359504,
+          "overuse": 0,
+          "projected": 92986078500,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 1339131882,
+          "projected": 49578914040
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "alejandro@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 8246337208320,
+          "usage": 18575898215,
+          "overuse": 0,
+          "projected": 55727694630,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 2336654259,
+          "projected": 4682633070
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 8246337208320,
+          "usage": 29745530486,
+          "overuse": 0,
+          "projected": 89236591440,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 1560877690,
+          "projected": 4682633070
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 16492674416640,
+          "usage": 48321428701,
+          "overuse": 0,
+          "projected": 144964286070,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 3897531949,
+          "projected": 93919224510
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "apixdsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "barnettadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "boseadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 12149125,
+          "overuse": 0,
+          "projected": 36447375,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 501680,
+          "projected": 1505040
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 1496938,
+          "overuse": 0,
+          "projected": 4490814,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 80534,
+          "projected": 241602
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 13646063,
+          "overuse": 0,
+          "projected": 40938189,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 582214,
+          "projected": 1746642
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "dimi3admin@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 214748364800,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 268435456000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "dissonatedadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "dummycandw@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "dummyrouted@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 2147483648,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 109521666048,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "fttc-test@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 268435456000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 214748364800,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 483183820800,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "fttptestcp@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 536870912000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 536870912000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 1073741824000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "hbarnettfttc@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 2893040686,
+          "overuse": 0,
+          "projected": 8679122040,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 121189024,
+          "projected": 241890330
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 10737418240,
+          "usage": 2055027982,
+          "overuse": 0,
+          "projected": 6165083940,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 80630114,
+          "projected": 241890330
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 4948068668,
+          "overuse": 0,
+          "projected": 14844205980,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 201819138,
+          "projected": 6406974270
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "helloworld@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 210099,
+          "overuse": 0,
+          "projected": 630297,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 35226,
+          "projected": 105678
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 349926,
+          "overuse": 0,
+          "projected": 1049778,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 58258,
+          "projected": 174774
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 560025,
+          "overuse": 0,
+          "projected": 1680075,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 93484,
+          "projected": 280452
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "icuknewoffice@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 134217728000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 134217728000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 268435456000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "icukoffice@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "icukoffice2@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 343597383680,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 343597383680,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 687194767360,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "icukoffice32@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "icuk-test-1@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 4248514,
+          "overuse": 0,
+          "projected": 12745530,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 2002942,
+          "projected": 7441080
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 5543675,
+          "overuse": 0,
+          "projected": 16631010,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 2480367,
+          "projected": 7441080
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 161061273600,
+          "usage": 9792189,
+          "overuse": 0,
+          "projected": 29376540,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 4483309,
+          "projected": 24072090
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "icuk-test-2@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 805306368000,
+          "usage": 20215959375,
+          "overuse": 0,
+          "projected": 60647878110,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 2020665049,
+          "projected": 26442987600
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 536870912000,
+          "usage": 55418264100,
+          "overuse": 0,
+          "projected": 166254792300,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 8814329203,
+          "projected": 26442987600
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 1342177280000,
+          "usage": 75634223475,
+          "overuse": 0,
+          "projected": 226902670410,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 10834994252,
+          "projected": 192697779900
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "invoice-test@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 161061273600,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 268435456000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "jamesinnesadsl@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 161061273600,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "jamesinnesfttc2@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 10454704022,
+          "overuse": 0,
+          "projected": 31364112060,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 21072149469,
+          "projected": 47567858430
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 6754753212,
+          "overuse": 0,
+          "projected": 20264259630,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 15855952814,
+          "projected": 47567858430
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 27487790694400,
+          "usage": 17209457234,
+          "overuse": 0,
+          "projected": 51628371690,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 36928102283,
+          "projected": 67832118060
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "jearsmob@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 21474836480,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 128849018880,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "johncadsl@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 37580963840,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 144955146240,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "lesliebrighton@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 3229737223,
+          "overuse": 0,
+          "projected": 9689211660,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 376754902,
+          "projected": 105423150
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 507596314,
+          "overuse": 0,
+          "projected": 1522788930,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 35141055,
+          "projected": 105423150
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 161061273600,
+          "usage": 3737333537,
+          "overuse": 0,
+          "projected": 11212000590,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 411895957,
+          "projected": 1628212080
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "lydon@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "lynnhilladsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "matsimsadsl@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 134217728000,
+          "usage": 3148952936,
+          "overuse": 0,
+          "projected": 9446858790,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 281889406,
+          "projected": 666755610
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 134217728000,
+          "usage": 1687209937,
+          "overuse": 0,
+          "projected": 5061629790,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 222251874,
+          "projected": 666755610
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 268435456000,
+          "usage": 4836162873,
+          "overuse": 0,
+          "projected": 14508488580,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 504141280,
+          "projected": 5728385400
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "neilockenden@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 219293369,
+          "overuse": 0,
+          "projected": 657880080,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 19835786,
+          "projected": 176222370
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 21474836480,
+          "usage": 460191819,
+          "overuse": 0,
+          "projected": 1380575430,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 58740794,
+          "projected": 176222370
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 128849018880,
+          "usage": 679485188,
+          "overuse": 0,
+          "projected": 2038455510,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 78576580,
+          "projected": 1556797800
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "paulhome@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 1569206066,
+          "overuse": 0,
+          "projected": 4707618180,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 210289239,
+          "projected": 1148145390
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 5534008922,
+          "overuse": 0,
+          "projected": 16602026760,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 382715139,
+          "projected": 1148145390
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 27487790694400,
+          "usage": 7103214988,
+          "overuse": 0,
+          "projected": 21309644940,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 593004378,
+          "projected": 17750172150
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "pbarnettadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "pltest@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 21474836480,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 128849018880,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "plydonadsl2@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 2479657283,
+          "overuse": 0,
+          "projected": 7438971840,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 1034907477,
+          "projected": 1949453340
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 2833288429,
+          "overuse": 0,
+          "projected": 8499865260,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 649817785,
+          "projected": 1949453340
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 27487790694400,
+          "usage": 5312945712,
+          "overuse": 0,
+          "projected": 15938837100,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 1684725262,
+          "projected": 10449318600
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest120413@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 27487790694400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest1204133@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 5368709120,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 112742891520,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest12042013@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 5368709120,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 112742891520,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest250113@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 10737418240,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest2501132@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 10737418240,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest250120133@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 107374182400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 161061273600,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "shauntest320112@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 10737418240,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "smalpass@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "stevepaadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 214748364800,
+          "usage": 18402430,
+          "overuse": 0,
+          "projected": 55207290,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 8734795,
+          "projected": 100228290
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 103152517,
+          "overuse": 0,
+          "projected": 309457530,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 33409438,
+          "projected": 100228290
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 279172874240,
+          "usage": 121554947,
+          "overuse": 0,
+          "projected": 364664820,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 42144233,
+          "projected": 409685820
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "stevepalmer@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 8246337208320,
+          "usage": 17487294829,
+          "overuse": 0,
+          "projected": 52461884460,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 837956231,
+          "projected": 7318259190
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 8246337208320,
+          "usage": 16252843520,
+          "overuse": 0,
+          "projected": 48758530560,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 2439419739,
+          "projected": 7318259190
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 16492674416640,
+          "usage": 33740138349,
+          "overuse": 0,
+          "projected": 101220415020,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 3277375970,
+          "projected": 56076789750
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "testtest@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 27487790694400,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "todonovan@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 3119252355,
+          "overuse": 0,
+          "projected": 9357757050,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 48324914685,
+          "projected": 138211615470
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 13743895347200,
+          "usage": 2546785842,
+          "overuse": 0,
+          "projected": 7640357520,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 46070538494,
+          "projected": 138211615470
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 27487790694400,
+          "usage": 5666038197,
+          "overuse": 0,
+          "projected": 16998114570,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 94395453179,
+          "projected": 145851972990
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "todonovan-ewell@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 214748364800,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 279172874240,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "todonovan-fttc@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 805306368000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 536870912000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 1342177280000,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "updatetest@interdsl.net",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 53687091200,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 10737418240,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 64424509440,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    },
+    {
+      "username": "zhihuaadsl@interdsl.co.uk",
+      "year": 2014,
+      "month": 9,
+      "peak_hours": {
+        "start": "8:00:00",
+        "end": "19:59:59"
+      },
+      "off_peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "peak": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      },
+      "total": {
+        "download": {
+          "quota": 0,
+          "usage": 0,
+          "overuse": 0,
+          "projected": 0,
+          "projected_overuse": 0
+        },
+        "upload": {
+          "usage": 0,
+          "projected": 0
+        },
+        "overuse_charge": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+﻿{
+  "username": "apiuser@interdsl.net",
+  "year": 2014,
+  "month": 7,
+  "day": 4,
+  "hours": [
+    {
+      "download": 1049529252,
+      "upload": 12580502,
+      "hour": 0
+    },
+    {
+      "download": 22189238,
+      "upload": 571504,
+      "hour": 1
+    },
+    {
+      "download": 248165,
+      "upload": 293974,
+      "hour": 2
+    },
+    {
+      "download": 293476,
+      "upload": 284313,
+      "hour": 3
+    },
+    {
+      "download": 444080,
+      "upload": 594252,
+      "hour": 4
+    },
+    {
+      "download": 275473,
+      "upload": 301366,
+      "hour": 5
+    },
+    {
+      "download": 1889484,
+      "upload": 365540,
+      "hour": 6
+    },
+    {
+      "download": 40266754,
+      "upload": 2863931,
+      "hour": 7
+    },
+    {
+      "download": 21661963,
+      "upload": 2949760,
+      "hour": 8
+    },
+    {
+      "download": 33304638,
+      "upload": 1253678,
+      "hour": 9
+    },
+    {
+      "download": 382712,
+      "upload": 339646,
+      "hour": 10
+    },
+    {
+      "download": 1025240,
+      "upload": 411451,
+      "hour": 11
+    },
+    {
+      "download": 260452,
+      "upload": 345047,
+      "hour": 12
+    },
+    {
+      "download": 262007,
+      "upload": 316750,
+      "hour": 13
+    },
+    {
+      "download": 267937,
+      "upload": 324894,
+      "hour": 14
+    },
+    {
+      "download": 5052321,
+      "upload": 1205952,
+      "hour": 15
+    },
+    {
+      "download": 538249,
+      "upload": 382499,
+      "hour": 16
+    },
+    {
+      "download": 10005679,
+      "upload": 1760500,
+      "hour": 17
+    },
+    {
+      "download": 118409952,
+      "upload": 9750089,
+      "hour": 18
+    },
+    {
+      "download": 225223875,
+      "upload": 7755123,
+      "hour": 19
+    },
+    {
+      "download": 1585579691,
+      "upload": 23153038,
+      "hour": 20
+    },
+    {
+      "download": 239056332,
+      "upload": 10859912,
+      "hour": 21
+    },
+    {
+      "download": 197187802,
+      "upload": 5779367,
+      "hour": 22
+    },
+    {
+      "download": 264510400,
+      "upload": 4244363,
+      "hour": 23
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+﻿/* ------------------------------------------------------------------------------------------
+ * API Console
+ * ------------------------------------------------------------------------------------------ */
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+
+
+.method-example th {
+	background-color: #F5F5F5;
+	text-align: left;
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 700;
+	padding: 4px 8px;
+	border: #e0e0e0 1px solid;
+}
+
+.method-example td {
+	vertical-align: top;
+	padding: 2px 8px;
+	border: #e0e0e0 1px solid;
+}
+
+h1 {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    margin: 0 0 20px 0;
+    padding: 0
+}
+
+h2 {
+	font-family: "Source Sans Pro", sans-serif;
+    font-size: 15px;
+    display: inline-block;
+    margin: 0 0 5px 0;
+    font-weight: bold;
+}
+
+h3 {
+	font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    margin: 0 0 5px 0;
+    font-weight: bold;
+}
+
+div.console-container {
+    margin: 0px;
+    padding: 90px 25px 0px 25px;
+}
+
+div.body-wrapper {
+	margin-top:  0px;
+	margin-left:  0;
+	margin-right:  0;
+	margin-bottom:  0;
+	padding:  0;
+	position:  relative;
+	top:  0;
+	left:  0;
+	width:  100%;
+}
+
+div.left-column {
+	top:  90px;
+	left:  25px;
+	margin:  0;
+	padding:  0;
+	width:  350px;
+    position: fixed;	
+}
+
+div.console-content {
+ 	margin-left:  365px;
+	margin-right:  0;
+	margin-bottom:  0;
+	margin-top:  0;
+	padding:  0;   
+    min-width:107px;
+}
+
+.console-container p {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 14px;
+}
+
+.console-container a { 
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 14px;
+}
+
+.console-container div {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 14px;
+}
+
+.console-container th {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 14px;
+}
+
+.console-container td {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 14px;
+}
+
+div.console-heading {
+    float:left;
+}
+
+.panel-default > .panel-heading {
+    padding-left:0px; 
+    background-color:#FFFFFF;
+}
+
+ul.module-menu { 
+    list-style:none;
+    margin-left:0;
+}
+
+ul.module-menu li {
+    height: 2.66em;
+    line-height: 2.49em;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+li:hover.console-menu-method {
+    background-color:#F5F5F5;
+    clear: both;
+}
+
+li.method-selected {
+    background-color:#EAEEFD;
+}
+
+li:hover.method-selected {
+    background-color:#EAEEFD;
+}
+
+li.console-menu-controller {
+    background-color:#F5F5F5;
+    font-size: 90%;
+}
+
+span.open-doc {
+    float: right; 
+    font-size: 9px;
+    line-height: 2.66em;
+    padding-top: 4px;
+}
+
+span.open-type-doc {
+    font-size: 9px;
+    line-height: 2.66em;
+    padding-left:7px;
+}
+
+.http-method.get {
+    background-color: #008000;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.25);
+}
+
+.http-method.put {
+    background-color: #E5C500;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.25);
+}
+
+.http-method.post {
+    background-color: #4070EC;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.25);
+}
+
+.http-method.delete {
+    background-color: #ED0039;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.25);
+}
+
+.http-method {
+    display: inline-block;
+    text-transform: capitalize;
+    font-size: 70%;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.25);
+    background-color: #bfbfbf;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 4px;
+    line-height: 1em;
+    padding: .3em;
+    min-width: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+a.method-url {
+    padding-top:5px;
+    font-size: 90%;
+}
+
+a:hover.method-url {
+    padding-top:5px;
+    font-size: 90%;
+    cursor: pointer;
+}
+
+div.panel {
+    margin-bottom:5px; 
+    padding:0px;
+}
+
+div.panel-body {
+    padding: 0px;
+    max-height: 400px;
+    overflow-y: auto; 
+}
+
+ul.module-menu {
+    padding: 0px;
+}
+
+.panel-title > a {
+    color: #428bca;
+    text-decoration: none;
+    padding-left:10px;
+}
+
+.panel-title > a:hover {
+    color: #005580;
+    text-decoration: underline;
+}
+
+div.search-field {
+    margin:10px;
+    width:255px; 
+    float:left;
+}
+
+input.search-field-input {
+    font-size:14px; 
+    height:28px; 
+    margin:1px; 
+    padding-left:4px;
+    padding-right:4px;
+}
+
+div.search-field-button {
+    margin:10px;
+    margin-left:0px; 
+    float:right;
+}
+
+button.search-field-button {
+    height:28px; 
+    margin-top:1px; 
+    padding-top:3px;
+}
+
+button.table-button {
+    height:28px; 
+    margin-top:1px; 
+    padding-top:3px;
+}
+
+div.table-button-container {
+    float:right; 
+    margin-top:-31px; 
+    margin-bottom:5px;
+}
+
+label.chk-real-request-label {
+    font-weight:normal; 
+    margin-left:5px; 
+    margin-right:10px; 
+    margin-top:1px;
+}
+
+div.search-results {
+    clear:both; 
+    max-height: 350px; 
+    overflow-y: auto;
+}
+
+table.parameter-table td, th {
+    font-size: 13px; 
+    vertical-align:middle;
+    padding:5px;
+    padding-left:7px;
+    padding-right:8px;
+ 
+}
+
+table.no-border td {
+    border: none;
+}
+
+table.parameter-table th {
+    font-weight: bold;
+}
+
+table.parameter-table tr > td > a {
+    font-size: 13px;
+}
+
+.method-example input {
+    font-size:12px; 
+    height:22px; 
+    margin:1px; 
+    padding-left:6px;
+    padding-right:4px;
+    width: 94% !important;
+    float: left !important;
+}
+
+.optional-field {
+    margin: 0px;
+    padding: 0px;
+    padding-top: 6px;
+    padding-left: 4px;
+    padding-right: 0px;
+    float: left;
+}
+
+.method-example select {
+    font-size:12px; 
+    height:23px; 
+    margin:1px; 
+    padding-left:2px;
+    padding-right:4px;
+    padding-top: 2px;
+    width: auto;
+    float: left;
+}
+
+input.datetime {
+    background-color: #fff !important;
+    width: auto !important;
+    float: left !important;
+    cursor: default !important;
+    margin: 0px;
+}
+
+.input-group-addon {
+    margin: 0px; 
+    float: left;
+    padding-top: 2px;
+    padding-left: 4px;
+    height: 22px !important;
+    width: 24px !important;
+}
+
+.bootstrap-datetimepicker-widget {
+    margin-left: -2px !important;
+    margin-top: 4px !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+}
+
+th.dow {
+    font-size: 12px;
+}
+
+th.switch {
+    font-size: 12px !important;
+}
+
+p.form-method-description {
+    margin-bottom:5px; 
+    font-size:14px;
+}
+
+td.parameter {
+   width:22%;
+}
+
+td.value {
+   width:28%;
+}
+
+td.type {
+   width:20%;
+}
+
+.message-param {
+    margin-bottom:8px;
+}
+
+.nested-message-param {
+    margin-bottom:5px;
+
+}
+
+.nested-message-param thead {
+    display: none;
+}
+
+/* ------------------------------------------------------------------------------------------
+ * pre / code
+ * ------------------------------------------------------------------------------------------ */
+pre {
+  background-color: #292b36;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 0px 0 20px 0;
+}
+
+pre.language-html {
+	margin: 40px 0 20px 0;
+}
+
+code.code-example {
+    font-size: 13px;
+    font-family: "Source Code Pro";
+    font-style: normal;
+    font-weight: 400;
+}
+
+*:focus  
+{  
+    outline: none;  
+}
+
+ul.validation-field-list {
+    padding: 0px;
+    list-style-type: none;
+}
+
+.input-highlight {
+    border: 1px solid #1500FF;
+}
+
+button.btn-add-struct {
+    padding: 0px;
+    font-size: 8px;
+    width: 20px !important;
+    height: 20px;
+}
+
+button.btn-remove-struct {
+    padding: 0px;
+    font-size: 8px;
+    width: 20px !important;
+    height: 20px; 
+}
+
+.form-type-name {
+    min-width: 177px;
+    font-size: 14px; 
+    margin-bottom: 4px;
+
+}
+
+.request-content {
+    float: left; 
+    width: 50%;
+}
+
+.response-content {
+    float: right; 
+    width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+    .btn-add-table {
+        display: none;
+    }
+    .btn-remove-table {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 675px) {
+    .chk-real-request {
+        display: none;
+    }
+    .chk-real-request-label {
+        display: none;
+    }
+}

@@ -1,0 +1,341 @@
+﻿{
+  "username": "apiuser@interdsl.net",
+  "year": 2014,
+  "month": 4,
+  "peak_hours": {
+    "start": "8:00:00",
+    "end": "19:59:59"
+  },
+  "days": [
+    {
+      "off_peak": {
+        "download": 1713052031,
+        "upload": 56448387
+      },
+      "peak": {
+        "download": 2076828276,
+        "upload": 345255059
+      },
+      "day": 1
+    },
+    {
+      "off_peak": {
+        "download": 1067556761,
+        "upload": 32188391
+      },
+      "peak": {
+        "download": 150859038,
+        "upload": 11923099
+      },
+      "day": 2
+    },
+    {
+      "off_peak": {
+        "download": 2228839276,
+        "upload": 63103850
+      },
+      "peak": {
+        "download": 478395828,
+        "upload": 18220734
+      },
+      "day": 3
+    },
+    {
+      "off_peak": {
+        "download": 7404489,
+        "upload": 1356680
+      },
+      "peak": {
+        "download": 1969943927,
+        "upload": 347430464
+      },
+      "day": 4
+    },
+    {
+      "off_peak": {
+        "download": 1362984851,
+        "upload": 35473886
+      },
+      "peak": {
+        "download": 4447360422,
+        "upload": 107799238
+      },
+      "day": 5
+    },
+    {
+      "off_peak": {
+        "download": 1023018989,
+        "upload": 31316456
+      },
+      "peak": {
+        "download": 3751891222,
+        "upload": 126993741
+      },
+      "day": 6
+    },
+    {
+      "off_peak": {
+        "download": 57568859,
+        "upload": 31086092
+      },
+      "peak": {
+        "download": 2705257045,
+        "upload": 463470191
+      },
+      "day": 7
+    },
+    {
+      "off_peak": {
+        "download": 390107710,
+        "upload": 17418689
+      },
+      "peak": {
+        "download": 1529237032,
+        "upload": 52691371
+      },
+      "day": 8
+    },
+    {
+      "off_peak": {
+        "download": 428484241,
+        "upload": 24555865
+      },
+      "peak": {
+        "download": 4310888101,
+        "upload": 141259109
+      },
+      "day": 9
+    },
+    {
+      "off_peak": {
+        "download": 1997146541,
+        "upload": 57976312
+      },
+      "peak": {
+        "download": 2888543853,
+        "upload": 112669665
+      },
+      "day": 10
+    },
+    {
+      "off_peak": {
+        "download": 34122349,
+        "upload": 3547766
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 11
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 12
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 13
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 14
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 15
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 16
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 17
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 18
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 19
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 20
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 21
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 22
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 23
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 24
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 25
+    },
+    {
+      "off_peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "peak": {
+        "download": 0,
+        "upload": 0
+      },
+      "day": 26
+    },
+    {
+      "off_peak": {
+        "download": 740228370,
+        "upload": 14937937
+      },
+      "peak": {
+        "download": 745419567,
+        "upload": 56486341
+      },
+      "day": 27
+    },
+    {
+      "off_peak": {
+        "download": 2916903157,
+        "upload": 63740536
+      },
+      "peak": {
+        "download": 700305869,
+        "upload": 18415340
+      },
+      "day": 28
+    },
+    {
+      "off_peak": {
+        "download": 748100210,
+        "upload": 13309551
+      },
+      "peak": {
+        "download": 953291516,
+        "upload": 18631740
+      },
+      "day": 29
+    },
+    {
+      "off_peak": {
+        "download": 455458040,
+        "upload": 9958932
+      },
+      "peak": {
+        "download": 1693591542,
+        "upload": 33427387
+      },
+      "day": 30
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+﻿{
+  "online_statuses": [
+    {
+      "username": "alanheyes@interdsl.net",
+      "login_time": "2014-09-09T03:31:45",
+      "time_online": "2 days 7 hours 13 minutes 34 seconds",
+      "is_online": true
+    },
+    {
+      "username": "alejandro@interdsl.net",
+      "login_time": "2014-09-07T11:37:30",
+      "time_online": "3 days 23 hours 7 minutes 49 seconds",
+      "is_online": true
+    },
+    {
+      "username": "fttc-test@interdsl.net",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "hbarnettfttc@interdsl.net",
+      "login_time": "2014-08-21T02:39:09",
+      "time_online": "21 days 8 hours 6 minutes 10 seconds",
+      "is_online": true
+    },
+    {
+      "username": "icuk-test-1@interdsl.net",
+      "login_time": "2014-08-11T12:07:40",
+      "time_online": "30 days 22 hours 37 minutes 39 seconds",
+      "is_online": true
+    },
+    {
+      "username": "icuk-test-2@interdsl.net",
+      "login_time": "2014-07-24T14:37:52",
+      "time_online": "48 days 20 hours 7 minutes 27 seconds",
+      "is_online": true
+    },
+    {
+      "username": "icuknewoffice@interdsl.co.uk",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "icukoffice2@interdsl.co.uk",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "jamesinnesadsl@interdsl.net",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "jamesinnesfttc2@interdsl.net",
+      "login_time": "2014-08-14T00:22:46",
+      "time_online": "28 days 10 hours 22 minutes 33 seconds",
+      "is_online": true
+    },
+    {
+      "username": "lesliebrighton@interdsl.net",
+      "login_time": "2014-09-04T22:46:17",
+      "time_online": "6 days 11 hours 59 minutes 2 seconds",
+      "is_online": true
+    },
+    {
+      "username": "matsimsadsl@interdsl.net",
+      "login_time": "2014-09-11T05:42:03",
+      "time_online": "5 hours 3 minutes 16 seconds",
+      "is_online": true
+    },
+    {
+      "username": "neilockenden@interdsl.net",
+      "login_time": "2014-09-04T11:12:51",
+      "time_online": "6 days 23 hours 32 minutes 28 seconds",
+      "is_online": true
+    },
+    {
+      "username": "paulhome@interdsl.co.uk",
+      "login_time": "2014-08-12T21:58:02",
+      "time_online": "29 days 12 hours 47 minutes 17 seconds",
+      "is_online": true
+    },
+    {
+      "username": "plydonadsl2@interdsl.net",
+      "login_time": "2014-09-08T08:22:36",
+      "time_online": "3 days 2 hours 22 minutes 43 seconds",
+      "is_online": true
+    },
+    {
+      "username": "shauntest120413@interdsl.net",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "stevepaadsl@interdsl.co.uk",
+      "login_time": "2014-08-31T14:35:34",
+      "time_online": "10 days 20 hours 9 minutes 45 seconds",
+      "is_online": true
+    },
+    {
+      "username": "stevepalmer@interdsl.co.uk",
+      "login_time": "2014-08-28T23:25:10",
+      "time_online": "13 days 11 hours 20 minutes 9 seconds",
+      "is_online": true
+    },
+    {
+      "username": "todonovan-ewell@interdsl.co.uk",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "todonovan-fttc@interdsl.net",
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "todonovan@interdsl.net",
+      "login_time": "2014-08-08T11:34:19",
+      "time_online": "33 days 23 hours 11 minutes 0 seconds",
+      "is_online": true
+    },
+    {
+      "username": "dummycandw@interdsl.co.uk",
+      "login_time": "2014-01-22T10:17:25",
+      "time_online": "232 days 0 hours 27 minutes 54 seconds",
+      "is_online": true
+    },
+    {
+      "username": null,
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "boseadsl@interdsl.co.uk",
+      "login_time": "2014-08-13T10:29:52",
+      "time_online": "29 days 0 hours 15 minutes 27 seconds",
+      "is_online": true
+    },
+    {
+      "username": null,
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    },
+    {
+      "username": "helloworld@interdsl.co.uk",
+      "login_time": "2014-08-13T10:30:41",
+      "time_online": "29 days 0 hours 14 minutes 38 seconds",
+      "is_online": true
+    },
+    {
+      "username": null,
+      "login_time": "0001-01-01T00:00:00",
+      "time_online": "",
+      "is_online": false
+    }
+  ]
+}

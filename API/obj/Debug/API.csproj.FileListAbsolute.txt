@@ -1,0 +1,200 @@
+C:\Users\User\source\repos\ICUK Broadband API\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ICUK Broadband API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\API.dll.config
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\API.XML
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\API.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\API.pdb
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\DocsByReflection.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\HelperSharp.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\IcukApiCsharpSdk.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Jayrock.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Jayrock.Json.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Http.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Utils.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\IcukApiCsharpSdk.pdb
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Utils.pdb
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\DocsByReflection.pdb
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\DocsByReflection.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\HelperSharp.pdb
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\HelperSharp.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\User\source\repos\ICUK Broadband API\API\obj\Debug\API.dll
+C:\Users\User\source\repos\ICUK Broadband API\API\obj\Debug\API.pdb
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\ICUK Broadband API\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\API.dll.config
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\API.XML
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\API.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\API.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\DocsByReflection.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\HelperSharp.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\IcukApiCsharpSdk.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Jayrock.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Jayrock.Json.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Http.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Razor.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Utils.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\IcukApiCsharpSdk.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Utils.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\DocsByReflection.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\DocsByReflection.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\HelperSharp.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\HelperSharp.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Razor.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\API.dll.config
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\API.XML
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\API.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\API.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\DocsByReflection.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\HelperSharp.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\IcukApiCsharpSdk.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Jayrock.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Jayrock.Json.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Newtonsoft.Json.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Net.Http.Formatting.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Helpers.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Http.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Http.WebHost.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Mvc.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Razor.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.WebPages.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Utils.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Utils.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\DocsByReflection.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\DocsByReflection.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\HelperSharp.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\HelperSharp.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\Newtonsoft.Json.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Helpers.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Mvc.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.Razor.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.WebPages.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\ICUK-API-Console\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\ICUK-API-Console\API\obj\Debug\API.csproj.Up2Date
+C:\Users\lawre\Desktop\ICUK-API-Console\API\obj\Debug\API.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\API\obj\Debug\API.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\API.dll.config
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\API.XML
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\API.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\API.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\DocsByReflection.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\HelperSharp.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\IcukApiCsharpSdk.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Jayrock.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Jayrock.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Newtonsoft.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Net.Http.Formatting.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Helpers.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Http.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Http.WebHost.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Mvc.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Razor.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Utils.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Utils.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\DocsByReflection.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\DocsByReflection.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\HelperSharp.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\HelperSharp.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\Newtonsoft.Json.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Helpers.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Mvc.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.Razor.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.csproj.Up2Date
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\API\obj\Debug\API.pdb
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\API.dll.config
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\API.XML
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\API.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\API.pdb
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\DocsByReflection.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\HelperSharp.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\IcukApiCsharpSdk.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Jayrock.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Jayrock.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Newtonsoft.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Net.Http.Formatting.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Helpers.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Http.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Http.WebHost.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Mvc.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Razor.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.WebPages.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Utils.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Utils.pdb
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\DocsByReflection.pdb
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\DocsByReflection.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\HelperSharp.pdb
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\HelperSharp.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\Newtonsoft.Json.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Helpers.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Mvc.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.Razor.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.WebPages.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\obj\Debug\API.csproj.Up2Date
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\obj\Debug\API.dll
+C:\Users\lawre\Documents\GitHub\ICUK_API_Console\API\obj\Debug\API.pdb

@@ -1,0 +1,81 @@
+﻿{
+  "username": "apiuser@interdsl.net",
+  "year": 2014,
+  "month": 7,
+  "peak_hours": {
+    "start": "8:00:00",
+    "end": "19:59:59"
+  },
+  "days": [
+    {
+      "off_peak": {
+        "download": 471848355,
+        "upload": 38932241
+      },
+      "peak": {
+        "download": 283537751,
+        "upload": 21660019
+      },
+      "day": 1
+    },
+    {
+      "off_peak": {
+        "download": 1297610807,
+        "upload": 54096703
+      },
+      "peak": {
+        "download": 173281932,
+        "upload": 31052275
+      },
+      "day": 2
+    },
+    {
+      "off_peak": {
+        "download": 1066845595,
+        "upload": 23559349
+      },
+      "peak": {
+        "download": 2241851556,
+        "upload": 103399785
+      },
+      "day": 3
+    },
+    {
+      "off_peak": {
+        "download": 3401470147,
+        "upload": 61892062
+      },
+      "peak": {
+        "download": 416395025,
+        "upload": 26795389
+      },
+      "day": 4
+    },
+    {
+      "off_peak": {
+        "download": 1032832660,
+        "upload": 14849313
+      },
+      "peak": {
+        "download": 1026185171,
+        "upload": 82608797
+      },
+      "day": 5
+    },
+    {
+      "off_peak": {
+        "download": 748966478,
+        "upload": 23314702
+      },
+      "peak": {
+        "download": 1363434554,
+        "upload": 81697268
+      },
+      "day": 6
+    }
+
+
+
+
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Release\IcukApiCsharpSdk.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Release\IcukApiCsharpSdk.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Release\System.Web.Http.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Release\SDK.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Release\SDK.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Release\SDK.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Release\IcukApiCsharpSdk.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Release\IcukApiCsharpSdk.pdb

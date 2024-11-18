@@ -1,0 +1,44 @@
+C:\Users\User\source\repos\ICUK Broadband API\Utils\bin\Debug\Utils.dll
+C:\Users\User\source\repos\ICUK Broadband API\Utils\bin\Debug\Utils.pdb
+C:\Users\User\source\repos\ICUK Broadband API\Utils\bin\Debug\Jayrock.dll
+C:\Users\User\source\repos\ICUK Broadband API\Utils\bin\Debug\Jayrock.Json.dll
+C:\Users\User\source\repos\ICUK Broadband API\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ICUK Broadband API\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ICUK Broadband API\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ICUK Broadband API\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ICUK Broadband API\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\User\source\repos\ICUK Broadband API\Utils\obj\Debug\Utils.dll
+C:\Users\User\source\repos\ICUK Broadband API\Utils\obj\Debug\Utils.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Utils.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Utils.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Jayrock.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Jayrock.Json.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\bin\Debug\Utils.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\bin\Debug\Utils.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\bin\Debug\Jayrock.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\bin\Debug\Jayrock.Json.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.Up2Date
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\obj\Debug\Utils.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\Utils\obj\Debug\Utils.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Utils.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Utils.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Jayrock.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Jayrock.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.csproj.Up2Date
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\Utils\obj\Debug\Utils.pdb

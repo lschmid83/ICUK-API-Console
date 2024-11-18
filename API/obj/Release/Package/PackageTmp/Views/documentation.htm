@@ -1,0 +1,319 @@
+﻿<div class='side-menu'>
+
+	<ul class='nav nav-list'>
+		<li><label class='tree-toggler nav-header'><a href='#'>ICUK API</a></label>
+			<ul class='nav nav-list tree active-trial'>
+				<li><a href='#api-introduction'>Introduction</a></li>
+				<li><a href='#api-endpoint'>Service URL</a></li>
+				<li><a href='#api-authentication'>Security and Authentication</a></li>
+				<li><a href='#api-rate-limiting'>Rate Limiting and Concurrency</a></li>
+			</ul>
+		</li>
+		<li class='nav-divider'></li>
+		<li><label class='tree-toggler nav-header'><a href='#'>REST Protocol</a></label>
+			<ul class='nav nav-list tree collapse'>
+				<li><a href='#rest-overview'>Overview</a></li>
+				<li><a href='#rest-http-verbs'>HTTP Verbs</a></li>
+				<li><a href='#rest-http-status-codes'>HTTP Status Codes</a></li>
+				<li><a href='#rest-field-formats'>Field Formats</a></li>
+				<li><a href='#rest-error-responses'>Error Responses</a></li> 
+				<li><label class='tree-toggler nav-header'>HTTP Headers</label>
+					<ul class='nav nav-list tree'>
+						<li><a href='#rest-header-authentication'>Authentication</a></li>
+						<li><a href='#rest-header-location'>Location</a></li>
+						<li><a href='#rest-header-content-type'>Content-Type</a></li>
+					</ul>  
+				</li> 
+			</ul>
+		</li>
+		<li class='nav-divider'></li>
+		<li><label class='tree-toggler nav-header'><a href='#'>REST API Reference</a></label>
+            <- module menu ->
+		</li>	
+		<li class='nav-divider'></li>
+		<li><label class='tree-toggler nav-header'><a class='no-scroll' href='/docs/console'>API Console</a></label></li>	 
+		<li class='nav-divider'></li>
+		<li><label class='tree-toggler nav-header'><a href='#'>Client SDKs</a></label>
+			<ul class='nav nav-list tree active-trial'>
+				<li><a href='#sdk-csharp'>C#</a></li>
+				<li><a href='#sdk-php'>PHP</a></li>
+				<li><a href='#sdk-java'>Java</a></li>
+                <li><a href='#sdk-asp'>ASP</a></li>
+			</ul>	  
+		</li>	
+		<li class='nav-divider'></li>
+		<li><label class='tree-toggler nav-header'><a href='#'>Integration Examples</a></label>
+			<ul class='nav nav-list tree active-trial'>
+				<li><a href='#example-broadband-availability'>Broadband Availability</a></li>
+				<li><a href='#example-domain-availability'>Domain Availability</a></li>
+			</ul>	  
+		</li>	
+</div>
+
+<div class='content'>
+
+	<div class='page-heading'>
+		<div class='container-inner'>
+			<span class='page-title'>
+				API Documentation
+			</span>
+		</div>
+	</div>
+
+	<div class='page-content'>
+
+        <h3 id='icuk-api'>ICUK API</h3>
+        
+        <h3 id='api-introduction'>Introduction</h3>
+		
+		<p>The ICUK API provides an interface to the reseller control panel which can be used to control the provisioning and configuration of facilities remotely. The API conforms to the REST standard which is designed to have predictable, resource-oriented URLs and uses HTTP response codes to indicate API errors. It uses built-in HTTP features, such as HTTP authentication and HTTP verbs. Read requests are made with GET, create requests are made with POST, update requests with PUT and deletions with DELETE. The API uses JSON as its data format which is returned by all GET requests and accepted by most others.</p>
+
+		<h3 id='api-endpoint'>Service URL</h3>
+		
+		<p>An API request can be made by sending a request to the webservice over HTTP using the following connection details:</p>
+		
+		<div class='table-responsive'>
+			<table style='width: 300px'>
+				<tbody>
+					<tr>
+						<th>Address</th>
+						<td>https://api.icuk.co.uk</td>
+					</tr>
+				</tbody>
+			</table>	
+		</div>	
+
+		<p>Please note the use of https:// in the URL above. All ICUK API communication is encrypted over HTTPS. Any non-secure requests are automatically rejected, so we recommend establishing a test connection with the secure API entry point before sending sensitive data.</p>
+
+		<p>All REST API methods use JSON in the request and response bodies. The JSON format for different API objects is provided in the Types section. Fields marked as required must be specified when creating and updating objects. Optional fields can be specified on create and update, but the request will succeed whether or not they are provided.</p>
+		
+		<h3 id='api-authentication'>Security and Authentication</h3>
+				
+		<p>The API requires secure authentication using SHA-256, SHA-512 or MD5 encryption. The authentication hash should be constructed using the path of the API method and the authentication key provided. For example: '/broadband/user/api@interdsl.net' + &lt;api_key&gt;</p>
+		
+		<p>The HTTP request header must contain the User, Hash and Encryption.</p>
+
+        <pre class='prettyprint language-json' data-type='json'>
+User: &lt;username&gt;
+Hash: &lt;authentication_hash&gt;
+Encryption: SHA-512</pre>
+		
+		<h3 id='api-rate-limiting'>Rate Limiting and Concurrency</h3>
+
+        <p>Requests will be rate-limited if too many calls are made within a short period of time. If the rate limit is exceeded, the API will respond with a HTTP 429 Too Many Requests response code.</p>
+        <p>Resource intensive methods can only be called once by an API user at any one time. Another request to the method will not be allowed until the first request has finished. This is to protect the platform from denial of services.</p>
+        
+        <h3 id='rest-protocol'>REST Protocol</h3>
+        
+        <h3 id='rest-overview'>Overview</h3>
+
+        <p>Any interaction with a REST API is an interaction with a resource. In fact, the API can be considered simply as mapping an endpoint or resource identifier (URL) to a resource. Resources are sources of information, typically documents or services. A user can be thought of as resource and thus has an URL.</p>
+
+        <h3 id='rest-http-verbs'>HTTP Verbs</h3>
+
+       	<div class='table-responsive'>
+			<table style='width: 80%'>
+				<tbody>
+					<tr>
+						<th>HTTP Verb</th>
+						<th>Action (typical usage)</th>
+					</tr>
+					<tr>
+						<td>GET</td>
+						<td>Retrieves a representation of a resource.</td>
+					</tr>	
+       				<tr>
+						<td>POST</td>
+						<td>Creates a resource.</td>
+					</tr> 
+       				<tr>
+						<td>PUT</td>
+						<td>Replaces an existing resource.</td>
+					</tr>  
+          			<tr>
+						<td>DELETE</td>
+						<td>Deletes a resource.</td>
+					</tr>                           					
+				</tbody>
+			</table>
+		</div>	
+
+        <h3 id='rest-http-status-codes'>HTTP Status Codes</h3>	 
+
+        <p>Since REST uses HTTP, logging your full request and response, including HTTP request and response headers, will help you diagnose problems faster and more efficiently. Standard HTTP response codes are returned by the server indicating the outcome of the request.</p>
+        
+       	<div class='table-responsive'>
+			<table style='width: 80%'>
+				<tbody>
+					<tr>
+						<th>Code</th>
+						<th>Description</th>
+					</tr>
+					<tr>
+						<td>200</td>
+						<td>Request succeeded.</td>
+					</tr>	
+       				<tr>
+						<td>201</td>
+						<td>Your request to POST or PUT a record was successful.</td>
+					</tr> 
+       				<tr>
+						<td>204</td>
+						<td>Your request to DELETE a record was successful.</td>
+					</tr>  
+          			<tr>
+						<td>400</td>
+						<td>Your request was not formatted correctly.</td>
+					</tr>    
+           			<tr>
+						<td>403</td>
+						<td>Access to the resource was denied. User is not authorised for this method.</td>
+					</tr>
+           			<tr>
+						<td>404</td>
+						<td>The resource was not found.</td>
+					</tr> 
+          			<tr>
+						<td>429</td>
+						<td>Your request has exceeded the rate limit.</td>
+					</tr> 
+                    <tr>
+						<td>500</td>
+						<td>There was an application error on the ICUK server.</td>
+					</tr>                                        					
+				</tbody>
+			</table>
+		</div>
+
+        <h3 id='rest-field-formats'>Field Formats</h3>	 
+
+        <p>All ICUK API requests are composed of light-weight JSON delivered as an HTTP request to the service URL.</p>
+        
+        <ul>
+            <li>All JSON should be UTF-8 encoded.</li>
+            <li>Timestamps are given UTC-based, e.g. 2012-01-09T08:33:29Z</li>
+            <li>Dates are given YYYY-MM-DD, e.g. 2011-07-26</li>
+            <li>Booleans are either 1 (true) or 0 (false).</li>
+        </ul>
+
+        <h3 id='rest-error-responses'>Error Responses</h3>	 
+
+        <p>This section provides reference information about ICUK API errors.</p>
+
+	<div class='table-responsive'>
+			<table style='width: 80%'>
+				<tbody>
+					<tr>
+						<th>Type</th>
+						<th>Description</th>
+					</tr>
+					<tr>
+						<td>InvalidParameterException</td>
+						<td>Parameter is not valid.</td>
+					</tr>	
+					<tr>
+						<td>NonExistentUserException</td>
+						<td>User does not exist.</td>
+					</tr>	
+					<tr>
+						<td>NotLiveException</td>
+						<td>Account is not live.</td>
+					</tr>
+					<tr>
+						<td>PasswordException</td>
+						<td>Invalid password supplied.</td>
+					</tr>
+					<tr>
+						<td>PaymentException</td>
+						<td>Your card details have been declined.</td>
+					</tr>
+					<tr>
+						<td>RequestTimeoutException</td>
+						<td>Request timeout.</td>
+					</tr>
+					<tr>
+						<td>DataUsageException</td>
+						<td>Unable to retrieve data usage.</td>
+					</tr>
+					<tr>
+						<td>DeleteResourceException</td>
+						<td>Unable to delete resource.</td>
+					</tr>
+					<tr>
+						<td>InternalApiException</td>
+						<td>Internal API exception occured.</td>
+   					</tr>	  	                                                                              					
+				</tbody>
+			</table>
+		</div>
+
+        <h3 id='rest-http-headers'>HTTP Headers</h3>
+
+        <h3 id='rest-header-authentication'>Authentication</h3>
+
+		<p>The HTTP request headers must contain the User, Hash and Encryption.</p>
+
+        <pre class='prettyprint language-json' data-type='json'>
+User: &lt;username&gt;
+Hash: &lt;authentication_hash&gt;
+Encryption: SHA-512</pre>
+
+        <h3 id='rest-header-location'>Location</h3>
+
+        <p>The API responds to successful requests with HTTP status codes in the 200 or 300 range. When you create or update a resource, we will render the resulting JSON representation in the response body and set a Location header pointing to the resource.</p>
+        <pre class='prettyprint language-json' data-type='json'>
+HTTP/1.1 201 OK
+/broadband/ripe/person/{ripe_nic_handle}
+{
+    "name": "",
+    "address_line_1": "",
+    "address_line_2": "",
+    "town": "",
+    "county": "",
+    "postcode": "",
+    "phone_number": ""
+}</pre>
+
+    <h3 id='rest-header-content-type'>Content-Type</h3>
+    
+    <p>All the content included in an HTTP request body sent to the API must be JSON encoded. You must include a "Content-Type: application/json" header to indicate this for each request that includes any data.</p>
+    
+    <pre class='prettyprint language-json' data-type='json'>
+Content-Type: application/json
+</pre>
+
+    <h3 id='client-sdks'>Client SDKs</h3>
+
+    <p>The ICUK client SDK provides a rich set of client-side functionality for making API calls and implementing a client side solution which includes broadband and domain name availability checkers. It is available for most popular programming languages including C#, Java and PHP.</p>
+
+    <p>The SDK will help you write applications using bindings which provide a language level API for accessing features in a manner consistent with language standards.</p>
+
+    <ul>
+        <li><a id='sdk-csharp' href='/download/icuk_sdk_csharp_v1.0.zip'>C#</a></li>
+        <li><a id='sdk-php' href='/download/icuk_sdk_php_v1.0.zip'>PHP</a></li>
+        <li><a id='sdk-java' href='/download/icuk_sdk_java_v1.0.zip'>Java</a></li>
+        <li><a id='sdk-asp' href='/download/icuk_sdk_asp_v1.0.zip'>ASP</a></li>
+    </ul>
+
+    <h3 id='integration-examples'>Integration Examples</h3>
+
+    <h3 id='example-broadband-availability'>Broadband Availability</h3>
+
+    <ul>
+        <li><a id='broadband-checker-chsharp' href='/download/icuk_broadband_checker_csharp_v1.0.zip'>C#</a></li>
+        <li><a id='broadband-checker-php' href='/download/icuk_broadband_checker_php_v1.0.zip'>PHP</a></li>
+        <li><a id='broadband-checker-asp' href='/download/icuk_broadband_checker_asp_v1.0.zip'>ASP</a></li>
+    </ul>
+
+    <h3 id='example-domain-availability'>Domain Availability</h3>
+
+    <ul>
+        <li><a id='domain-checker-csharp' href='/download/icuk_domain_checker_csharp_v1.0.zip'>C#</a></li>
+        <li><a id='domain-checker-php' href='/download/icuk_domain_checker_php_v1.0.zip'>PHP</a></li>
+        <li><a id='domain-checker-asp' href='/download/icuk_domain_checker_asp_v1.0.zip'>ASP</a></li>
+    </ul>
+
+	</div>
+
+</div>
+

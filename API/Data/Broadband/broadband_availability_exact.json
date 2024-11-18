@@ -1,0 +1,52 @@
+﻿{
+  "exchange": {
+    "status": "Enabled",
+    "message": "No Reason Code",
+    "exchange_code": "LSBEU",
+    "exchange_name": "BEULAH HILL"
+  },
+  "products": [
+    {
+      "name": "20CN ADSL Max",
+      "likely_down_speed": 5.5,
+      "likely_up_speed": 0.56,
+      "availability": true,
+      "availability_date": null
+    },
+    {
+      "name": "21CN ADSL 2+",
+      "likely_down_speed": 8.0,
+      "likely_up_speed": 0.43,
+      "availability": true,
+      "availability_date": null
+    },
+    {
+      "name": "21CN Annex M",
+      "likely_down_speed": 8.0,
+      "likely_up_speed": 1.0,
+      "availability": true,
+      "availability_date": null
+    },
+    {
+      "name": "Fibre to the Cabinet (FTTC)",
+      "likely_down_speed": 74.6,
+      "likely_up_speed": 19.9,
+      "availability": true,
+      "availability_date": null
+    },
+    {
+      "name": "Fibre to the Premises (FTTP)",
+      "likely_down_speed": null,
+      "likely_up_speed": null,
+      "availability": false,
+      "availability_date": null
+    },
+    {
+      "name": "Cable & Wireless LLU ADSL 2+",
+      "likely_down_speed": 8.0,
+      "likely_up_speed": 0.43,
+      "availability": true,
+      "availability_date": null
+    }
+  ]
+}

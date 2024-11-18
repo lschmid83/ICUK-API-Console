@@ -1,0 +1,37 @@
+﻿{
+  "ripe_persons": [
+    {
+      "name": "James Rowe",
+      "nic_handle": "JR1117-RIPE",
+      "mnt_by": "ICUK-MNT",
+      "address_line_1": "1 Stroude Road",
+      "address_line_2": "",
+      "town": "Epsom",
+      "county": "Surrey",
+      "postcode": "M9 8UE",
+      "phone_number": "+441616403086"
+    },
+    {
+      "name": "Emma Oliver",
+      "nic_handle": "EO9047-RIPE",
+      "mnt_by": "ICUK-MNT",
+      "address_line_1": "19 Park Row",
+      "address_line_2": "",
+      "town": "Purley",
+      "county": "Surrey",
+      "postcode": "CR8 1EE",
+      "phone_number": "+442085602380"
+    },
+    {
+      "name": "Charles Walton",
+      "nic_handle": "CW2184-RIPE",
+      "mnt_by": "ICUK-MNT",
+      "address_line_1": "1 Bishopthorpe Road",
+      "address_line_2": "",
+      "town": "Ashford",
+      "county": "Middlesex",
+      "postcode": "TW13 1AF",
+      "phone_number": "+441784253720"
+    }
+  ]
+}

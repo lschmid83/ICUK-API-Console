@@ -1,0 +1,51 @@
+﻿{
+  "username": "apiuser@interdsl.net",
+  "year": 2014,
+  "month": 7,
+  "peak_hours": {
+    "start": "8:00:00",
+    "end": "19:59:59"
+  },
+  "off_peak": {
+    "download": {
+      "quota": 322122547200,
+      "usage": 8019574042,
+      "overuse": 0,
+      "projected": 41434465863,
+      "projected_overuse": 0
+    },
+    "upload": {
+      "usage": 216644370,
+      "projected": 1793936582
+    },
+    "overuse_charge": 0.0
+  },
+  "peak": {
+    "download": {
+      "quota": 107374182400,
+      "usage": 5504685989,
+      "overuse": 0,
+      "projected": 28440877584,
+      "projected_overuse": 0
+    },
+    "upload": {
+      "usage": 347213533,
+      "projected": 1793936582
+    },
+    "overuse_charge": 0.0
+  },
+  "total": {
+    "download": {
+      "quota": 429496729600,
+      "usage": 13524260031,
+      "overuse": 0,
+      "projected": 69875343447,
+      "projected_overuse": 0
+    },
+    "upload": {
+      "usage": 563857903,
+      "projected": 30234814166
+    },
+    "overuse_charge": 0.0
+  }
+}

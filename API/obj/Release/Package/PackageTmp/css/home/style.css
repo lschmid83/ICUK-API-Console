@@ -1,0 +1,145 @@
+﻿html { 
+	height: 100%;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	height: 100%;
+}
+
+/* Containers */
+
+.side-menu {
+	padding: 20px;
+	padding-top: 10px;
+	top: 73px;
+	bottom: 0px;
+	width: 264px;
+	overflow: auto;
+	position: fixed;
+	background-color: #f5f5f5;
+}
+
+.content {
+	background-color:#EEEEEE;
+	height: auto;
+	padding-top: 73px;
+	z-Index: -1;
+	margin-left: 264px;
+}
+
+.page-heading {
+	position: absolute;
+	width: auto;
+	background-color: #666;
+	line-height: normal;
+	padding-left: 20px;
+	left: 264px;
+	right: 0px;
+	min-width: 500px;
+}
+
+.page-content {
+	padding-left: 20px;
+	padding-right: 40px;
+	padding-top: 55px;
+    padding-bottom: 70px;
+	height: 100%;
+}
+
+/* Menu */
+
+.nav-list {
+	font-size: 11px !important;
+	color: #000;
+}
+
+.nav-list li li a {
+	color: #000;
+}
+
+.nav-header {
+	margin-top: 10px !important;
+	margin-bottom: 6px;
+	font-size: 11px;
+}
+
+.nav-list a {
+	font-size: 11px !important;
+	color: #000;
+}
+
+/* Page heading */
+
+.page-title {
+	cursor: default;
+	color: #fff;
+	text-shadow: 1px 1px 1px #37647e;
+	font-size: 36px;
+	font-weight: 100;
+	font-family: HelveticaNeue,Arial,sans-serif;
+	line-height: 61px;
+}
+
+/* Page content */
+
+.page-content > p {
+	font-size: 11px;
+	color: #000;
+	line-height: 1.8;
+}
+
+.page-content > a {
+	font-size: 12px;
+}
+
+.page-content > ul > li  {
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+}
+
+.page-content > ul > li  > a {
+	font-size: 11px;
+	color: #000;
+}
+
+.page-content > h3 {
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	border-bottom: 1px solid #cfcfcf;
+	padding-top: 5px;
+	color: #666666;
+	font-weight: bold;
+}
+
+/* Tables */
+
+.table-responsive th {
+	background-color: #c00;
+	color: #fff;
+	padding: 5px;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #a00;
+	font-weight: bold;
+}
+
+.table-responsive td {
+	background-color: #fff;
+	color: #000;
+	padding: 5px;
+	border-left: 1px solid #ccc;
+	-webkit-transition: background-color 0.1s;
+	-moz-transition: background-color 0.1s;
+	-o-transition: background-color 0.1s;
+	-ms-transition: background-color 0.1s;
+	transition: background-color 0.1s;
+	border-top: 1px solid #ccc;
+}
+
+.table-responsive {
+	margin-bottom: 10px;
+	font-size: 11px;
+	line-height: 1.6;
+}

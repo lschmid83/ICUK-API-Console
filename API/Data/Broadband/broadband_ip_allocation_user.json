@@ -1,0 +1,12 @@
+﻿{
+  "ip": "46.33.129.21",
+  "allocation": "static",
+  "routed": null,
+  "ipv6": {
+    "ip": "2A00:B900:1070::/48",
+    "network": "2A00:B900:1070:0000:0000:0000:0000:0000",
+    "netmask": "FFFF:FFFF:FFFF:0000:0000:0000:0000:0000",
+    "range": 1208925819614629174706176,
+    "broadcast": "2A00:B900:1070:FFFF:FFFF:FFFF:FFFF:FFFF"
+  }
+}

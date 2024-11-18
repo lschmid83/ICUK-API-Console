@@ -1,0 +1,44 @@
+C:\Users\User\source\repos\ICUK Broadband API\SDK\bin\Debug\IcukApiCsharpSdk.dll
+C:\Users\User\source\repos\ICUK Broadband API\SDK\bin\Debug\IcukApiCsharpSdk.pdb
+C:\Users\User\source\repos\ICUK Broadband API\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ICUK Broadband API\SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ICUK Broadband API\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ICUK Broadband API\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ICUK Broadband API\SDK\obj\Debug\SDK.csproj.CopyComplete
+C:\Users\User\source\repos\ICUK Broadband API\SDK\obj\Debug\IcukApiCsharpSdk.dll
+C:\Users\User\source\repos\ICUK Broadband API\SDK\obj\Debug\IcukApiCsharpSdk.pdb
+C:\Users\User\source\repos\ICUK Broadband API\SDK\bin\Debug\System.Web.Http.dll
+C:\Users\User\source\repos\ICUK Broadband API\SDK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\IcukApiCsharpSdk.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\IcukApiCsharpSdk.pdb
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\System.Web.Http.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\IcukApiCsharpSdk.dll
+C:\Users\User\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\bin\Debug\IcukApiCsharpSdk.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\bin\Debug\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\bin\Debug\System.Web.Http.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.Up2Date
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\obj\Debug\IcukApiCsharpSdk.dll
+C:\Users\lawre\Desktop\ICUK-API-Console\SDK\obj\Debug\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\IcukApiCsharpSdk.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\IcukApiCsharpSdk.pdb
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\System.Web.Http.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\SDK.csproj.Up2Date
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\IcukApiCsharpSdk.dll
+C:\Users\lawre\Documents\GitHub\ICUK-API-Console\SDK\obj\Debug\IcukApiCsharpSdk.pdb

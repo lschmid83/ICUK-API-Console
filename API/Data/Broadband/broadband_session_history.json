@@ -1,0 +1,504 @@
+﻿{
+  "session_history": [
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-09-09T03:31:45",
+      "stop_time": "0001-01-01T00:00:00",
+      "time_online": "2 days 7 hours 11 minutes 1 second",
+      "data_in": 6300731,
+      "data_out": 208692,
+      "termination_cause": ""
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-09-09T02:19:20",
+      "stop_time": "2014-09-09T03:30:42",
+      "time_online": "1 hour 11 minutes 22 seconds",
+      "data_in": 193774,
+      "data_out": 5222,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-09-02T03:31:25",
+      "stop_time": "2014-09-09T02:19:14",
+      "time_online": "6 days 22 hours 47 minutes 49 seconds",
+      "data_in": 22901593,
+      "data_out": 1025494,
+      "termination_cause": "Port-Error"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-08-26T03:31:05",
+      "stop_time": "2014-09-02T03:30:22",
+      "time_online": "6 days 23 hours 59 minutes 17 seconds",
+      "data_in": 23185858,
+      "data_out": 810481,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-08-19T03:31:45",
+      "stop_time": "2014-08-26T03:30:02",
+      "time_online": "6 days 23 hours 58 minutes 17 seconds",
+      "data_in": 13295524,
+      "data_out": 773228,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-08-12T03:31:26",
+      "stop_time": "2014-08-19T03:30:42",
+      "time_online": "6 days 23 hours 59 minutes 15 seconds",
+      "data_in": 7047777,
+      "data_out": 437793,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-08-05T03:31:06",
+      "stop_time": "2014-08-12T03:30:22",
+      "time_online": "6 days 23 hours 59 minutes 16 seconds",
+      "data_in": 17267435,
+      "data_out": 868290,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-29T03:31:47",
+      "stop_time": "2014-08-05T03:30:03",
+      "time_online": "6 days 23 hours 58 minutes 16 seconds",
+      "data_in": 11533057,
+      "data_out": 527529,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-22T03:31:29",
+      "stop_time": "2014-07-29T03:30:44",
+      "time_online": "6 days 23 hours 59 minutes 15 seconds",
+      "data_in": 9349986,
+      "data_out": 530301,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-21T23:30:19",
+      "stop_time": "2014-07-22T03:30:26",
+      "time_online": "4 hours 0 minutes 7 seconds",
+      "data_in": 14578,
+      "data_out": 1051,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-15T03:31:10",
+      "stop_time": "2014-07-21T23:12:00",
+      "time_online": "6 days 19 hours 30 minutes 22 seconds",
+      "data_in": 28333522,
+      "data_out": 1216206,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-08T03:31:47",
+      "stop_time": "2014-07-15T03:30:07",
+      "time_online": "6 days 23 hours 58 minutes 20 seconds",
+      "data_in": 22095599,
+      "data_out": 1018727,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-05T00:22:03",
+      "stop_time": "2014-07-08T03:30:47",
+      "time_online": "3 days 3 hours 8 minutes 44 seconds",
+      "data_in": 16290213,
+      "data_out": 408629,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-07-01T03:31:31",
+      "stop_time": "2014-07-05T00:00:00",
+      "time_online": "3 days 20 hours 0 minutes 6 seconds",
+      "data_in": 9132284,
+      "data_out": 351919,
+      "termination_cause": "Admin-Reset"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-06-24T03:31:12",
+      "stop_time": "2014-07-01T03:30:27",
+      "time_online": "6 days 23 hours 59 minutes 15 seconds",
+      "data_in": 8107024,
+      "data_out": 772445,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-06-18T02:52:53",
+      "stop_time": "2014-06-24T03:30:08",
+      "time_online": "6 days 0 hours 37 minutes 15 seconds",
+      "data_in": 16152432,
+      "data_out": 768386,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-06-17T03:31:52",
+      "stop_time": "2014-06-18T02:50:04",
+      "time_online": "23 hours 18 minutes 12 seconds",
+      "data_in": 5300633,
+      "data_out": 186089,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-06-13T18:37:50",
+      "stop_time": "2014-06-17T03:30:49",
+      "time_online": "3 days 8 hours 52 minutes 59 seconds",
+      "data_in": 5253767,
+      "data_out": 230716,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-06-10T03:31:22",
+      "stop_time": "2014-06-13T18:35:24",
+      "time_online": "3 days 15 hours 4 minutes 2 seconds",
+      "data_in": 12544518,
+      "data_out": 844008,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-06-03T03:31:06",
+      "stop_time": "2014-06-10T03:30:21",
+      "time_online": "6 days 23 hours 59 minutes 15 seconds",
+      "data_in": 19427146,
+      "data_out": 787839,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-05-30T19:37:19",
+      "stop_time": "2014-06-03T03:30:02",
+      "time_online": "3 days 7 hours 52 minutes 43 seconds",
+      "data_in": 12248742,
+      "data_out": 414741,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-05-27T03:31:51",
+      "stop_time": "2014-05-30T19:19:00",
+      "time_online": "3 days 15 hours 31 minutes 22 seconds",
+      "data_in": 15772284,
+      "data_out": 865040,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-05-20T03:31:26",
+      "stop_time": "2014-05-27T03:30:42",
+      "time_online": "6 days 23 hours 59 minutes 15 seconds",
+      "data_in": 35379290,
+      "data_out": 1202524,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-05-19T02:59:32",
+      "stop_time": "2014-05-20T03:30:21",
+      "time_online": "1 day 0 hours 30 minutes 49 seconds",
+      "data_in": 4922211,
+      "data_out": 129058,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-05-13T04:41:47",
+      "stop_time": "2014-05-19T02:52:04",
+      "time_online": "5 days 22 hours 10 minutes 17 seconds",
+      "data_in": 23270616,
+      "data_out": 855722,
+      "termination_cause": "Port-Error"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-05-06T03:31:38",
+      "stop_time": "2014-05-13T03:30:53",
+      "time_online": "6 days 23 hours 59 minutes 15 seconds",
+      "data_in": 12345525,
+      "data_out": 848903,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-04-29T03:31:23",
+      "stop_time": "2014-05-06T03:30:33",
+      "time_online": "6 days 23 hours 59 minutes 10 seconds",
+      "data_in": 13617748,
+      "data_out": 388445,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-04-27T11:02:24",
+      "stop_time": "2014-04-29T03:30:14",
+      "time_online": "1 day 16 hours 27 minutes 50 seconds",
+      "data_in": 5584237,
+      "data_out": 159944,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-04-08T03:31:09",
+      "stop_time": "2014-04-11T05:33:32",
+      "time_online": "3 days 2 hours 2 minutes 23 seconds",
+      "data_in": 11292304,
+      "data_out": 397749,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-04-01T03:31:51",
+      "stop_time": "2014-04-08T03:30:05",
+      "time_online": "6 days 23 hours 58 minutes 14 seconds",
+      "data_in": 22514597,
+      "data_out": 1635444,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-30T10:42:20",
+      "stop_time": "2014-04-01T03:30:45",
+      "time_online": "1 day 16 hours 48 minutes 25 seconds",
+      "data_in": 6210355,
+      "data_out": 494927,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-25T03:31:30",
+      "stop_time": "2014-03-30T10:41:25",
+      "time_online": "5 days 6 hours 9 minutes 55 seconds",
+      "data_in": 7454185,
+      "data_out": 276210,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-19T12:32:13",
+      "stop_time": "2014-03-25T03:30:26",
+      "time_online": "5 days 14 hours 58 minutes 13 seconds",
+      "data_in": 11673555,
+      "data_out": 412783,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-18T03:31:08",
+      "stop_time": "2014-03-19T12:19:00",
+      "time_online": "1 day 8 hours 31 minutes 37 seconds",
+      "data_in": 2148105,
+      "data_out": 70211,
+      "termination_cause": ""
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-16T10:46:08",
+      "stop_time": "2014-03-18T03:30:06",
+      "time_online": "1 day 16 hours 43 minutes 58 seconds",
+      "data_in": 5493369,
+      "data_out": 176498,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-15T12:41:09",
+      "stop_time": "2014-03-16T10:45:11",
+      "time_online": "22 hours 4 minutes 2 seconds",
+      "data_in": 1437921,
+      "data_out": 57642,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-12T06:29:11",
+      "stop_time": "2014-03-15T12:38:31",
+      "time_online": "3 days 6 hours 9 minutes 21 seconds",
+      "data_in": 6436227,
+      "data_out": 614693,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-11T03:31:43",
+      "stop_time": "2014-03-12T06:28:14",
+      "time_online": "1 day 2 hours 56 minutes 32 seconds",
+      "data_in": 4955242,
+      "data_out": 144625,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-10T23:57:18",
+      "stop_time": "2014-03-11T03:30:37",
+      "time_online": "3 hours 33 minutes 20 seconds",
+      "data_in": 569499,
+      "data_out": 26544,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-05T12:39:55",
+      "stop_time": "2014-03-10T23:56:19",
+      "time_online": "5 days 11 hours 16 minutes 24 seconds",
+      "data_in": 20059918,
+      "data_out": 1501727,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-03-04T03:31:21",
+      "stop_time": "2014-03-05T12:39:23",
+      "time_online": "1 day 9 hours 8 minutes 2 seconds",
+      "data_in": 2005948,
+      "data_out": 138019,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-27T03:15:21",
+      "stop_time": "2014-03-04T03:30:17",
+      "time_online": "5 days 0 hours 14 minutes 57 seconds",
+      "data_in": 9222409,
+      "data_out": 419652,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-25T03:32:07",
+      "stop_time": "2014-02-27T00:00:00",
+      "time_online": "1 day 20 hours 0 minutes 3 seconds",
+      "data_in": 5453499,
+      "data_out": 194188,
+      "termination_cause": ""
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-19T20:56:48",
+      "stop_time": "2014-02-25T03:30:57",
+      "time_online": "5 days 6 hours 34 minutes 10 seconds",
+      "data_in": 26947935,
+      "data_out": 1000205,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-18T22:09:32",
+      "stop_time": "2014-02-19T20:07:28",
+      "time_online": "21 hours 57 minutes 56 seconds",
+      "data_in": 3885246,
+      "data_out": 184633,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-18T15:53:41",
+      "stop_time": "2014-02-18T22:08:37",
+      "time_online": "6 hours 14 minutes 56 seconds",
+      "data_in": 1929989,
+      "data_out": 59741,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-18T03:31:37",
+      "stop_time": "2014-02-18T15:52:38",
+      "time_online": "12 hours 21 minutes 1 second",
+      "data_in": 2329133,
+      "data_out": 298003,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-16T17:25:34",
+      "stop_time": "2014-02-18T03:30:32",
+      "time_online": "1 day 10 hours 4 minutes 59 seconds",
+      "data_in": 945654,
+      "data_out": 124844,
+      "termination_cause": "User-Request"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-16T17:01:40",
+      "stop_time": "2014-02-16T17:23:43",
+      "time_online": "22 minutes 2 seconds",
+      "data_in": 0,
+      "data_out": 205,
+      "termination_cause": "Lost-Carrier"
+    },
+    {
+      "username": "alanheyes@interdsl.net",
+      "framed_ip": "46.33.129.21",
+      "start_time": "2014-02-11T03:31:54",
+      "stop_time": "2014-02-16T17:00:02",
+      "time_online": "5 days 13 hours 28 minutes 8 seconds",
+      "data_in": 14295288,
+      "data_out": 606239,
+      "termination_cause": "Lost-Carrier"
+    }
+  ]
+}

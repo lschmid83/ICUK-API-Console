@@ -1,0 +1,128 @@
+﻿{
+  "username": "apiuser@interdsl.net",
+  "year": 2014,
+  "month": 7,
+  "day": 6,
+  "hours": [
+    {
+      "download": 14448344,
+      "upload": 1927188,
+      "hour": 0
+    },
+    {
+      "download": 131765935,
+      "upload": 7623300,
+      "hour": 1
+    },
+    {
+      "download": 580676863,
+      "upload": 7784679,
+      "hour": 2
+    },
+    {
+      "download": 4780087,
+      "upload": 1228115,
+      "hour": 3
+    },
+    {
+      "download": 4413088,
+      "upload": 1200002,
+      "hour": 4
+    },
+    {
+      "download": 4188407,
+      "upload": 1200430,
+      "hour": 5
+    },
+    {
+      "download": 4237180,
+      "upload": 1179736,
+      "hour": 6
+    },
+    {
+      "download": 4456574,
+      "upload": 1171252,
+      "hour": 7
+    },
+    {
+      "download": 4333832,
+      "upload": 1201943,
+      "hour": 8
+    },
+    {
+      "download": 44613509,
+      "upload": 2020224,
+      "hour": 9
+    },
+    {
+      "download": 609198189,
+      "upload": 12078916,
+      "hour": 10
+    },
+    {
+      "download": 19522026,
+      "upload": 1968810,
+      "hour": 11
+    },
+    {
+      "download": 215015882,
+      "upload": 15406272,
+      "hour": 12
+    },
+    {
+      "download": 224704733,
+      "upload": 12901770,
+      "hour": 13
+    },
+    {
+      "download": 121753080,
+      "upload": 16934476,
+      "hour": 14
+    },
+    {
+      "download": 30514415,
+      "upload": 8898540,
+      "hour": 15
+    },
+    {
+      "download": 55916472,
+      "upload": 5808440,
+      "hour": 16
+    },
+    {
+      "download": 37862416,
+      "upload": 4477877,
+      "hour": 17
+    },
+    {
+      "download": 0,
+      "upload": 0,
+      "hour": 18
+    },
+    {
+      "download": 0,
+      "upload": 0,
+      "hour": 19
+    },
+    {
+      "download": 0,
+      "upload": 0,
+      "hour": 20
+    },
+    {
+      "download": 0,
+      "upload": 0,
+      "hour": 21
+    },
+    {
+      "download": 0,
+      "upload": 0,
+      "hour": 22
+    },
+    {
+      "download": 0,
+      "upload": 0,
+      "hour": 23
+    }
+  ]
+}
