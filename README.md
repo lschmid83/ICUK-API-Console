@@ -44,16 +44,16 @@ If there are errors with references to System.Web follow these instructions:
 2. Right click on References
 3. Select Add Reference...
 4. Select Assemblies
-5. Uncheck:
-   -System.Web
-   -System.Web.Routing
+5. Uncheck:  
+   -System.Web  
+   -System.Web.Routing  
    -System.Net.Http
 
 6. Select Browse...
 7. Open the C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5 folder
-8. Add:
-   -System.Web.dll
-   -System.Web.Routing
+8. Add:  
+   -System.Web.dll  
+   -System.Web.Routing  
    -System.Net.Http
 
 # Running the Project
